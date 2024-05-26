@@ -1,3 +1,6 @@
 [submodule "client_gateway"]
 	path = client_gateway
 	url = https://github.com/jorbinogales/products_app_gateway.git
+[submodule "products-app"]
+	path = products-app
+	url = https://github.com/jorbinogales/products_app_products_ms.git
